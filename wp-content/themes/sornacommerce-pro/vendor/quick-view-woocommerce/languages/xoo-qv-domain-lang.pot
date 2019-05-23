@@ -1,0 +1,145 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: xoo-qv-domain\n"
+"POT-Creation-Date: 2016-07-16 18:21+0530\n"
+"PO-Revision-Date: 2016-07-16 17:50+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/xoo-qv-admin.php:95
+msgid "Quick View text"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:102
+msgid "Quick View button position"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:109
+msgid "Quick View button color"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:116
+msgid "Quick View modal width"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:123
+msgid "Enable on mobile"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:130
+msgid "Product link button"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:137
+msgid "Product link button text"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:144
+msgid "Enable Lightbox"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:151
+msgid "Show image title"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:173
+msgid "Basic"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:174
+msgid "Advanced"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:182
+msgid "Style Options"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:187
+msgid "General Options"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:192
+msgid "LightBox Settings"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:202
+msgid "Quick View"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:206
+msgid "Label for quick view button."
+msgstr ""
+
+#: inc/xoo-qv-admin.php:220
+msgid "After product image"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:223
+msgid "After product title"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:226
+msgid "After product price"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:229
+msgid "After product cart button"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:231
+msgid "On Image hover with icon  (Premium)"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:232
+msgid "On Image hover with text  (Premium)"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:235
+msgid "Position of quick view button on archive."
+msgstr ""
+
+#: inc/xoo-qv-admin.php:253
+msgid "Width of quick view container."
+msgstr ""
+
+#: inc/xoo-qv-admin.php:254
+msgid "Default: 60 (Value is in percentage.)"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:263
+msgid "Enable Quick view on mobile devices."
+msgstr ""
+
+#: inc/xoo-qv-admin.php:272
+msgid "Link to the current product"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:277
+msgid "Product Details"
+msgstr ""
+
+#: inc/xoo-qv-admin.php:281
+msgid "Label for product link button."
+msgstr ""
+
+#: inc/xoo-qv-admin.php:290
+msgid "Product Images will open in lightbox."
+msgstr ""
+
+#: inc/xoo-qv-admin.php:300
+msgid "Show image title."
+msgstr ""
+
+#: xoo-quickview-main.php:30
+msgid "WooCommerce Quick view requires WooCommerce in order to work."
+msgstr ""
